@@ -81,9 +81,7 @@ export default function LoginPage() {
           </div>
           <div className="space-y-1">
             <CardTitle className="text-xl">AI Todo Manager</CardTitle>
-            <CardDescription>
-              AI와 함께 오늘의 할 일을 더 빠르고 똑똑하게 관리해보세요.
-            </CardDescription>
+            <CardDescription>AI가 도와주는 스마트한 할 일 관리</CardDescription>
           </div>
         </CardHeader>
 
